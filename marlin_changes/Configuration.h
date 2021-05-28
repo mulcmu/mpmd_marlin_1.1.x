@@ -122,7 +122,7 @@
 #define BUILD_VERSION  MAKE_PROJECT "-" MAKE_VERSION "r" MAKE_RELEASE
 #define BUILD_DISPLAY  MAKE_VERSION MAKE_RELEASE
 #define BUILD_DETAILS  " [" __S_ ", " __F_ ", " __H_ "] (" __DATE__ ")"
-#define BUILD_GITHUB   "https://github.com/aegean-odyssey/mpmd_marlin_1.1.x"
+#define BUILD_GITHUB   "https://github.com/mulcmu/mpmd_marlin_1.1.x"
 
 #define DEFAULT_WEBSITE_URL       "http://marlinfw.org"
 #define DEFAULT_SOURCE_CODE_URL   BUILD_GITHUB
