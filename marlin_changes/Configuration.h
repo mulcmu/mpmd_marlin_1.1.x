@@ -117,7 +117,7 @@
 #endif
 #define __S_  "SM" _S3_ _S2_ _S1_ _S0_
 
-#define BUILD_AUTHOR   "Aegean Odyssey"
+#define BUILD_AUTHOR   "Aegean Odyssey - mulcmu fork"
 #define BUILD_COMPANY  "Aegean Associates, Inc."
 #define BUILD_VERSION  MAKE_PROJECT "-" MAKE_VERSION "r" MAKE_RELEASE
 #define BUILD_DISPLAY  MAKE_VERSION MAKE_RELEASE
